@@ -1,0 +1,84 @@
+count,title,year
+4,Assistant Engineer,2000
+38,Engineer,2000
+10,Senior Engineer,2000
+7,Senior Staff,2000
+39,Staff,2000
+1,Technique Leader,2000
+45,Assistant Engineer,1999
+400,Engineer,1999
+121,Senior Engineer,1999
+111,Senior Staff,1999
+386,Staff,1999
+57,Technique Leader,1999
+62,Assistant Engineer,1998
+400,Engineer,1998
+114,Senior Engineer,1998
+105,Senior Staff,1998
+406,Staff,1998
+45,Technique Leader,1998
+41,Assistant Engineer,1997
+366,Engineer,1997
+153,Senior Engineer,1997
+153,Senior Staff,1997
+371,Staff,1997
+55,Technique Leader,1997
+39,Assistant Engineer,1996
+286,Engineer,1996
+280,Senior Engineer,1996
+251,Senior Staff,1996
+251,Staff,1996
+70,Technique Leader,1996
+18,Assistant Engineer,1995
+233,Engineer,1995
+316,Senior Engineer,1995
+322,Senior Staff,1995
+188,Staff,1995
+43,Technique Leader,1995
+14,Assistant Engineer,1994
+142,Engineer,1994
+390,Senior Engineer,1994
+386,Senior Staff,1994
+105,Staff,1994
+52,Technique Leader,1994
+5,Assistant Engineer,1993
+96,Engineer,1993
+452,Senior Engineer,1993
+448,Senior Staff,1993
+32,Staff,1993
+61,Technique Leader,1993
+48,Engineer,1992
+547,Senior Engineer,1992
+488,Senior Staff,1992
+47,Technique Leader,1992
+55,Engineer,1991
+512,Senior Engineer,1991
+501,Senior Staff,1991
+63,Technique Leader,1991
+52,Engineer,1990
+515,Senior Engineer,1990
+522,Senior Staff,1990
+52,Technique Leader,1990
+43,Engineer,1989
+563,Senior Engineer,1989
+527,Senior Staff,1989
+59,Technique Leader,1989
+92,Engineer,1988
+1,Manager,1988
+2113,Senior Engineer,1988
+1997,Senior Staff,1988
+217,Technique Leader,1988
+88,Engineer,1987
+2120,Senior Engineer,1987
+1933,Senior Staff,1987
+204,Technique Leader,1987
+55,Engineer,1986
+1,Manager,1986
+2105,Senior Engineer,1986
+1944,Senior Staff,1986
+250,Technique Leader,1986
+34,Engineer,1985
+1946,Senior Engineer,1985
+1781,Senior Staff,1985
+2,Staff,1985
+170,Technique Leader,1985
