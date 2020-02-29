@@ -27,4 +27,4 @@ There are 1,549 employees born in 1965, the birth year identified as the potenti
 
 In conclusion, the retirement package should be offered to those 1952-1955 birthdate/1985-1988 hire date employees commencing their current positions prior to January 1, 1995.  This is 26,609 positions with a payroll of $1.41 billion.  By replacing those people with new hires estimated to make an average of $35,000/year, the company will save over $478 million annually.  A small portion of that savings can be used for compensating those 1,358 employees born in 1965 (and hired by the company prior to 1995) to act as mentors.  If these people are offered a bonus of $10,000/year for acting as a mentor, the cost to the company is only $13,580,000 or 2.8% of the savings created by the retirement program.  Your instructions asked for recommendations for further analysis...further analysis which has already been done and incorporated into this report.
 
-(SQL code for the requested queries can be found in the queries folder in the repository, as can the code for the ERD).
+(SQL code for the requested queries can be found in the main folder in the repository, as can the code for the ERD).
