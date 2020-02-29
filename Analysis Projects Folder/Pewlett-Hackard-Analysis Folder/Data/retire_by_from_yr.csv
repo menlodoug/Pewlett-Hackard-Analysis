@@ -1,84 +1,84 @@
-count,title,year
-4,Assistant Engineer,2000
-38,Engineer,2000
-10,Senior Engineer,2000
-7,Senior Staff,2000
-39,Staff,2000
-1,Technique Leader,2000
-45,Assistant Engineer,1999
-400,Engineer,1999
-121,Senior Engineer,1999
-111,Senior Staff,1999
-386,Staff,1999
-57,Technique Leader,1999
-62,Assistant Engineer,1998
-400,Engineer,1998
-114,Senior Engineer,1998
-105,Senior Staff,1998
-406,Staff,1998
-45,Technique Leader,1998
-41,Assistant Engineer,1997
-366,Engineer,1997
-153,Senior Engineer,1997
-153,Senior Staff,1997
-371,Staff,1997
-55,Technique Leader,1997
-39,Assistant Engineer,1996
-286,Engineer,1996
-280,Senior Engineer,1996
-251,Senior Staff,1996
-251,Staff,1996
-70,Technique Leader,1996
-18,Assistant Engineer,1995
-233,Engineer,1995
-316,Senior Engineer,1995
-322,Senior Staff,1995
-188,Staff,1995
-43,Technique Leader,1995
-14,Assistant Engineer,1994
-142,Engineer,1994
-390,Senior Engineer,1994
-386,Senior Staff,1994
-105,Staff,1994
-52,Technique Leader,1994
-5,Assistant Engineer,1993
-96,Engineer,1993
-452,Senior Engineer,1993
-448,Senior Staff,1993
-32,Staff,1993
-61,Technique Leader,1993
-48,Engineer,1992
-547,Senior Engineer,1992
-488,Senior Staff,1992
-47,Technique Leader,1992
-55,Engineer,1991
-512,Senior Engineer,1991
-501,Senior Staff,1991
-63,Technique Leader,1991
-52,Engineer,1990
-515,Senior Engineer,1990
-522,Senior Staff,1990
-52,Technique Leader,1990
-43,Engineer,1989
-563,Senior Engineer,1989
-527,Senior Staff,1989
-59,Technique Leader,1989
-92,Engineer,1988
-1,Manager,1988
-2113,Senior Engineer,1988
-1997,Senior Staff,1988
-217,Technique Leader,1988
-88,Engineer,1987
-2120,Senior Engineer,1987
-1933,Senior Staff,1987
-204,Technique Leader,1987
-55,Engineer,1986
-1,Manager,1986
-2105,Senior Engineer,1986
-1944,Senior Staff,1986
-250,Technique Leader,1986
-34,Engineer,1985
-1946,Senior Engineer,1985
-1781,Senior Staff,1985
-2,Staff,1985
-170,Technique Leader,1985
+count title,sum salaries,title,year
+4,218608,Assistant Engineer,2000
+44,2004537,Engineer,2000
+13,656726,Senior Engineer,2000
+8,439720,Senior Staff,2000
+44,2697065,Staff,2000
+2,105898,Technique Leader,2000
+49,2393193,Assistant Engineer,1999
+453,22309177,Engineer,1999
+137,6722335,Senior Engineer,1999
+125,7333660,Senior Staff,1999
+449,26506372,Staff,1999
+67,3207569,Technique Leader,1999
+69,3241863,Assistant Engineer,1998
+446,21493543,Engineer,1998
+122,5784589,Senior Engineer,1998
+116,6734622,Senior Staff,1998
+468,27425625,Staff,1998
+53,2471156,Technique Leader,1998
+47,2217510,Assistant Engineer,1997
+404,19670998,Engineer,1997
+176,8506770,Senior Engineer,1997
+175,10309510,Senior Staff,1997
+418,24294340,Staff,1997
+59,2861606,Technique Leader,1997
+39,1849474,Assistant Engineer,1996
+322,15579508,Engineer,1996
+312,14967015,Senior Engineer,1996
+277,16373428,Senior Staff,1996
+287,16823647,Staff,1996
+78,3710750,Technique Leader,1996
+20,951592,Assistant Engineer,1995
+257,12524461,Engineer,1995
+357,17267709,Senior Engineer,1995
+353,20198279,Senior Staff,1995
+206,11868294,Staff,1995
+53,2477745,Technique Leader,1995
+18,877992,Assistant Engineer,1994
+159,7839286,Engineer,1994
+431,20688080,Senior Engineer,1994
+435,25325136,Senior Staff,1994
+113,6089275,Staff,1994
+57,2750668,Technique Leader,1994
+5,243825,Assistant Engineer,1993
+108,5108330,Engineer,1993
+498,24179700,Senior Engineer,1993
+512,30089481,Senior Staff,1993
+35,2144388,Staff,1993
+70,3297196,Technique Leader,1993
+53,2527790,Engineer,1992
+628,30620602,Senior Engineer,1992
+556,32442204,Senior Staff,1992
+61,2915584,Technique Leader,1992
+59,2804488,Engineer,1991
+579,27875197,Senior Engineer,1991
+549,31788688,Senior Staff,1991
+70,3290772,Technique Leader,1991
+55,2781784,Engineer,1990
+574,27676221,Senior Engineer,1990
+583,34030849,Senior Staff,1990
+59,2942884,Technique Leader,1990
+49,2260993,Engineer,1989
+622,29995976,Senior Engineer,1989
+582,33789835,Senior Staff,1989
+66,3126235,Technique Leader,1989
+104,4962396,Engineer,1988
+1,48077,Manager,1988
+2367,114898753,Senior Engineer,1988
+2244,131353581,Senior Staff,1988
+237,11811304,Technique Leader,1988
+103,4982611,Engineer,1987
+2341,112994053,Senior Engineer,1987
+2162,126402166,Senior Staff,1987
+213,10096497,Technique Leader,1987
+57,2755571,Engineer,1986
+1,71148,Manager,1986
+2323,113811440,Senior Engineer,1986
+2183,127374049,Senior Staff,1986
+265,12931345,Technique Leader,1986
+38,1945305,Engineer,1985
+2171,105570574,Senior Engineer,1985
+2012,118792921,Senior Staff,1985
+2,88291,Staff,1985
+199,9386295,Technique Leader,1985
